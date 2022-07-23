@@ -1,7 +1,7 @@
 * {
   margin: 0px;
   padding: 0px;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+ font-family: 'Baloo 2', cursive;
   font-size: large;
   font-weight: bold;
   text-transform: uppercase;
@@ -84,7 +84,7 @@ nav .header_right .algos button {
 }
 
 nav .header_right .algos button:hover {
-  background-color: blue;
+  background-color:#03C4A1;
   cursor: pointer;
 }
 
@@ -109,7 +109,7 @@ nav .header_right .algos .butt_selected:hover {
 }
 
 nav .header_right .algos .butt_unselected:hover {
-  background-color: blue;
+  background-color:#03C4A1;
   cursor: pointer;
 }
 
